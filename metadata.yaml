@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '53082'
     url: http://www.gutenberg.org/2009/agents/53082
     wikipedia: https://hu.wikipedia.org/wiki/Sch%C3%B6pflin_Alad%C3%A1r
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerusalem, Wilhelm
     gutenberg_agent_id: '53678'
     url: http://www.gutenberg.org/2009/agents/53678
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66200#Bevezetes-a-filozofiaba
 gutenberg_issued: '2021-09-01'
 identifiers:
   gutenberg: '66200'
